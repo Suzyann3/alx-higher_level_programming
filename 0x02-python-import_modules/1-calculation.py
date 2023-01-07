@@ -1,4 +1,4 @@
-#!/usr/bin/pyhon3
+#!/usr/bin/python3
 
 if __name__ == "__main__":
     """Print the sum, difference, product, quotient of 10 and 5."""
